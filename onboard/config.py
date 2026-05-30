@@ -17,7 +17,7 @@ class OnboardConfig:
     """Runtime configuration for an Onboard run."""
 
     # --- AI settings -----------------------------------------------------------
-    model: str = "claude-sonnet-4-20250514"
+    model: str = "claude-sonnet-4-6"
     max_tokens: int = 4096
     temperature: float = 0.3
 

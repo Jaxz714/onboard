@@ -90,7 +90,7 @@ Works with any language. Special parsing for:
 Create a `config/default.yaml` or use environment variables:
 
 ```yaml
-model: "claude-sonnet-4-20250514"
+model: "claude-sonnet-4-6"
 max_tokens: 4096
 temperature: 0.3
 max_file_size: 100000
